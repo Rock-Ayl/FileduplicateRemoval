@@ -1,0 +1,2 @@
+# FileduplicateRemoval
+删除某个路径下所有MD5值相同的文件
